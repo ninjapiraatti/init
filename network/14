@@ -1,0 +1,3 @@
+cat /etc/resolv.conf
+
+But the better way is scutil --dns I guess.
