@@ -1,2 +1,4 @@
 a) ifconfig | grep broadcast
-b) arp -a
+
+b) You can ping all the addresses with ping 10.12.255.255 (the subnet in this case). Then:
+arp -a | grep 10.12
