@@ -1,1 +1,3 @@
 ipconfig getpacket en0 | grep yiaddr
+
+Source: http://osxdaily.com/2009/08/06/quickly-get-all-your-dhcp-info-with-ipconfig/

@@ -1,1 +1,3 @@
 hostname
+
+sudo hostname NEW_HOSTNAME

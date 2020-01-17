@@ -1,1 +1,5 @@
 sudo service ssh status
+
+or
+
+sudo systemctl status sshd

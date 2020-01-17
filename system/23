@@ -1,3 +1,3 @@
-ssh: ssh [username]@[IP]
+su - [username]
 
 Graphical session? you just log in with the credentials created with adduser

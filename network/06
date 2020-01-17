@@ -1,1 +1,3 @@
 cat /etc/resolv.conf
+
+This command lists the same DNS as the file above: scutil --dns | grep 'nameserver\[[0-9]*\]'

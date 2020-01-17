@@ -1,1 +1,5 @@
-nslookup slash16.org | grep Server
+nslookup 42.fr | grep Server 
+or 
+dig 42.fr | grep 'SERVER'
+
+Resolves into: 10.51.1.253

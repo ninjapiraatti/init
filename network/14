@@ -1,3 +1,3 @@
-cat /etc/resolv.conf
+cat /etc/hosts
 
-But the better way to find that out is scutil --dns I guess.
+Source: https://hathaway.cc/2008/06/how-to-setup-a-local-dns-host-file-on-mac-os-x/
